@@ -1,4 +1,4 @@
-# Hi, I'm Mantuka Masnoon Umama 👋
+# Hi, I'm Mantuka Masnoon Umama
 
 ### Microbiology Graduate | Bioinformatics | Molecular Biology
 
@@ -8,19 +8,19 @@ I enjoy combining biological knowledge with computational approaches to investig
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
-* 🧬 Bioinformatics & Computational Biology
-* 🧪 Molecular Biology
-* 🦠 Microbiology & Infectious Diseases
-* 🧬 Genomics & Transcriptomics
-* 🧫 Microbial Genomics
-* 🧩 Structural Bioinformatics
-* 📊 Biological Data Analysis
+* Bioinformatics & Computational Biology
+* Molecular Biology
+* Microbiology & Infectious Diseases
+* Genomics & Transcriptomics
+* Microbial Genomics
+* Structural Bioinformatics
+* Biological Data Analysis
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### Programming & Data Analysis
 
@@ -40,7 +40,7 @@ I enjoy combining biological knowledge with computational approaches to investig
 
 ---
 
-## 🧬 Featured Research
+## Featured Research
 
 ### Undergraduate Thesis
 
@@ -62,7 +62,7 @@ My undergraduate research focused on the **sequence, evolutionary, structural, a
 
 ---
 
-## 📊 Current Computational Work
+## Current Computational Work
 
 I'm currently building reproducible workflows for **RNA-seq data analysis**, including:
 
@@ -76,7 +76,7 @@ I'm currently building reproducible workflows for **RNA-seq data analysis**, inc
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Microbiology**
 North South University
@@ -86,20 +86,20 @@ North South University
 
 ---
 
-## 📌 What You'll Find Here
+## What You'll Find Here
 
 This GitHub profile contains projects involving:
 
-📁 Bioinformatics workflows
-📊 Transcriptomic data analysis
-🧬 Molecular sequence analysis
-🧩 Structural bioinformatics
-🦠 Microbiology research
-💻 Reproducible computational pipelines
+Bioinformatics workflows
+Transcriptomic data analysis
+Molecular sequence analysis
+Structural bioinformatics
+Microbiology research
+Reproducible computational pipelines
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** [www.linkedin.com/in/mantuka-masnoon-umama]
 * **Email:** [mantukaumama@gmail.com]
